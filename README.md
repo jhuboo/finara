@@ -41,7 +41,7 @@ Before you begin, ensure you have the latest version of [Node.js](https://nodejs
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/jhuboo/Finara.git
+git clone https://github.com/jhuboo/finara.git
 ```
 
 2. Install NPM packages:
