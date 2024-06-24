@@ -2,8 +2,8 @@
 
 Welcome to **Finara**, the ultimate finance management platform designed to give you a holistic view of your financial landscape. Whether you're tracking expenses, managing income, or planning for the future, Finara is here to simplify your financial life.
 
-![Demo-1](https://github.com/jhuboo/finara/tree/main/public/screenshots/demo-1.png)
-![Demo-2](https://github.com/jhuboo/finara/tree/main/public/screenshots/demo-2.png))
+![Demo-1](https://github.com/jhuboo/finara/blob/main/public/screenshots/demo-1.png)
+![Demo-2](https://github.com/jhuboo/finara/blob/main/public/screenshots/demo-2.png))
 
 ## Features
 
